@@ -1,1 +1,4 @@
-
+PyTorch version: 2.4.0+cu121
+pip install diffusers transformers ; version: diffusers-0.30.1
+pip install accelerate
+pip install scipy
